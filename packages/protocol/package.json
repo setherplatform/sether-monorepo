@@ -1,0 +1,27 @@
+{
+  "name": "@sether/contracts",
+  "version": "0.0.1",
+  "description": "Smart contracts for the Sether protocol.",
+  "keywords": [],
+  "author": "Sether Developers",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
+    "@openzeppelin/contracts": "^4.8.2",
+    "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.7",
+    "hardhat-abi-exporter": "^2.10.1",
+    "hardhat-contract-sizer": "^2.8.0",
+    "web3": "^1.8.2",
+    "keythereum": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=18.16.0",
+    "npm": ">=9.5.x"
+  }
+}
